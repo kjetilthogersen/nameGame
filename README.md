@@ -1,6 +1,8 @@
 # nameGame
 
-Simple name game (tournament format) to help decide which name to give the newborn.
+Simple name game using the python arcade library (https://arcade.academy/)
+
+The game is a tournament style game where names are matched up two at a time and you have do decide which one you like the best. Ideally, it will help you decide which name to give the newborn (that is if you agree with your spouse).
 
 run with "python run.py yourname"
 
